@@ -14,7 +14,7 @@ just use any static file web server or even just drag the file into your browser
 
 ## special thanks
 
-original file https://github.com/Centipede5/imageconverter/edit/master/README.md
-This where the template comes from https://codepen.io/RatanDas/pen/Popmwbp
-The code is based off of [this](https://medium.com/@aeshghi/convert-jpg-images-to-png-using-html5-url-and-canvas-45b14ee853c9) medium post
-This uses [jszip](https://github.com/Stuk/jszip) to zip the files in the zip option
+original file https://github.com/Centipede5/imageconverter/edit/master/README.md  <br />
+This where the template comes from https://codepen.io/RatanDas/pen/Popmwbp <br />
+The code is based off of [this](https://medium.com/@aeshghi/convert-jpg-images-to-png-using-html5-url-and-canvas-45b14ee853c9) medium post <br />
+This uses [jszip](https://github.com/Stuk/jszip) to zip the files in the zip option <br />
